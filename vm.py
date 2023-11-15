@@ -6,7 +6,7 @@ import os
 
 print(f"Provisioning a VM")
 
-
+# ctreating
 credential = AzureCliCredential()
 
 
